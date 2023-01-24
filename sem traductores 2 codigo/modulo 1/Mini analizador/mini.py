@@ -17,11 +17,11 @@ while (linea != '0'):
         
         for token in tokens:     
             if id.match(linea):
-                print (token, "<< es un identificador del tipo: 0")
+                print (token, "<< es un id del tipo: 0")
             elif real.match(linea):
                 print (token, "<< es un real del tipo: 2")
             elif entero.match(linea):
-                print(token, "<< es un identificador del tipo: 1") 
+                print(token, "<< es un id del tipo: 1") 
                 
             
         print("----------------------------------------------------------")
