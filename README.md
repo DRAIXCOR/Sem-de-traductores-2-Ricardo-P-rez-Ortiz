@@ -5,4 +5,5 @@
 **Proyecto final**
 
 
-! [Comenzamos analizando el léxico de los tokens ingresados como entrada:] (https://github.com/DRAIXCOR/Sem-de-traductores-2-Ricardo-P-rez-Ortiz/blob/Generador_Codigo_Proyecto_Final/capturas/captura1.jpeg) 
+
+![My Image](/Generador_Codigo_Proyecto_Final/capturas/codigo1.png)
