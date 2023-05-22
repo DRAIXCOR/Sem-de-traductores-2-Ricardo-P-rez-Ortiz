@@ -9,7 +9,7 @@ Comenzamos analizando el léxico de los tokens ingresados como entrada:
 ![My Image](/Proyecto%20final/images/Lexico2.png)
 
 Posteriormente hacemos un análisis LR de la cadena ingresada y creamos el respectivo arbol sintactico:
-![My Image](/Generador_Codigo_Proyecto_Final/capturas/captura1.jpeg)
+![My Image](/Generador_Codigo_Proyecto_Final/capturas/captura1.jpg)
 ![My Image](/Proyecto%20final/images/Sintactico2.png)
 
 El análisis semántico nos permite conocer el contexto de las variables que declaramos anteriormente: 
