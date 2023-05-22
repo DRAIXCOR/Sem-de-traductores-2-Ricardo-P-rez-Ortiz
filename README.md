@@ -28,3 +28,21 @@ nos muestra el resultado de la suma
 ![Imagen](capturas/captura7.jpg)
 
 
+
+#Ruta alternativa
+
+capturas/alternativa1.jpeg
+
+![Imagen](capturas/alternativa1.jpeg)
+
+![Imagen](capturas/alternativa2.jpeg)
+
+![Imagen](capturas/alternativa3.jpeg)
+
+![Imagen](capturas/alternativa4.jpeg)
+
+![Imagen](capturas/alternativa5.jpeg)
+
+![Imagen](capturas/alternativa6.jpeg)
+
+![Imagen](capturas/alternativa1.jpg)
