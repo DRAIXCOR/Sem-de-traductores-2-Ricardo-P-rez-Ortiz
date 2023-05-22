@@ -6,4 +6,4 @@
 
 
 
-![My Image](/Generador_Codigo_Proyecto_Final/capturas/codigo1.png)
+![My Image](/capturas/codigo1.png)
