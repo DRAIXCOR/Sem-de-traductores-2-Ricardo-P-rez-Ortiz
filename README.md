@@ -9,6 +9,9 @@ Empezamos viendo el analizador lexico
 ![Imagen](capturas/captura1.jpeg)
 
 ![Imagen](capturas/captura2.jpeg)
+
+
+
 Vemos el arbol sintactico generado por la suma
 ![Imagen](capturas/captura3.jpeg)
 
