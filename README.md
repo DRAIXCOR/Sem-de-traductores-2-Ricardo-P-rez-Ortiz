@@ -54,6 +54,10 @@ aquí nos mostrar nuestro error de sintaxis ya que no estan definidas
 
 ![Imagen](capturas/alternativa7.jpg)
 
+
+
+
+
 Primer intento fallido del generador a ensamblador :v 
 ![Imagen](capturas/falloxd.jpeg)
 
