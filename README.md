@@ -18,4 +18,4 @@ Empezamos viendo el analizador lexico
 
 ![Imagen](capturas/captura6.jpeg)
 
-![Imagen](capturas/captura7.jpeg)
+![Imagen](capturas/captura7.jpg)
