@@ -8,4 +8,4 @@ Empezamos viendo el analizador lexico
 
 ![Imagen](capturas/captura1.jpeg)
 
-![Imagen](capturas/captura2.jpeg)
+![Imagen](capturas/captura 2.jpeg)
