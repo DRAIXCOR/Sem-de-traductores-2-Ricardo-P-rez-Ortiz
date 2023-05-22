@@ -4,6 +4,8 @@
 
 **Proyecto final**
 
+Empezamos viendo el analizador lexico 
 
+![Imagen](capturas/captura1.jpeg)
 
-![My Image](capturas/captura1.jpeg)
+![Imagen](capturas/captura 2.jpeg)
