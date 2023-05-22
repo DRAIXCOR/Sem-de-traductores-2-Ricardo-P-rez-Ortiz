@@ -5,7 +5,7 @@ Generador_Codigo_Proyecto_Final/capturas
 Proyecto final
 Comenzamos analizando el léxico de los tokens ingresados como entrada:
 
-![My Image](/Proyecto%20final/images/Lexico1.png)
+[![My Image](/Proyecto%20final/images/Lexico1.png)](https://github.com/DRAIXCOR/Sem-de-traductores-2-Ricardo-P-rez-Ortiz/blob/Generador_Codigo_Proyecto_Final/capturas/captura1.jpeg)
 ![My Image](/Proyecto%20final/images/Lexico2.png)
 
 Posteriormente hacemos un análisis LR de la cadena ingresada y creamos el respectivo arbol sintactico:
