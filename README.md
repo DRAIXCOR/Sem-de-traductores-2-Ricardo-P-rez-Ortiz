@@ -6,4 +6,4 @@
 
 
 
-![My Image](/capturas/codigo1.png)
+![My Image](capturas/Codigo1.png)
