@@ -31,18 +31,25 @@ nos muestra el resultado de la suma
 
 #Ruta alternativa
 
-capturas/alternativa1.jpeg
+En la ruta alternativa no definimos los valores de la variables var2 y var 4 lo cual nos dara un error al final empezando con el analizador lexico donde no apareceran los valores
 
 ![Imagen](capturas/alternativa1.jpeg)
 
 ![Imagen](capturas/alternativa2.jpeg)
 
+
+Continuando con el arbol donde tampoco tienen que aparecer los valores de las variables var2 y var 4
 ![Imagen](capturas/alternativa3.jpeg)
 
 ![Imagen](capturas/alternativa4.jpeg)
 
+
+
+Continuando con el analizador semantico 
+
 ![Imagen](capturas/alternativa5.jpeg)
 
-![Imagen](capturas/alternativa6.jpeg)
 
-![Imagen](capturas/alternativa1.jpg)
+aquí nos mostrar nuestro error de sintaxis ya que no estan definidas
+
+![Imagen](capturas/alternativa7.jpg)
